@@ -1,0 +1,6 @@
+﻿  Cpp_5.cpp
+c:\users\nicholas\source\repos\cpp_5\cpp_5.cpp(7): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\nicholas\source\repos\cpp_5\cpp_5.cpp(15): error C2664: "int feof(FILE *)": невозможно преобразовать аргумент 1 из "std::fstream" в "FILE *"
+  c:\users\nicholas\source\repos\cpp_5\cpp_5.cpp(15): note: Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+c:\users\nicholas\source\repos\cpp_5\cpp_5.cpp(17): error C2065: i: необъявленный идентификатор
+c:\users\nicholas\source\repos\cpp_5\cpp_5.cpp(18): error C2065: i: необъявленный идентификатор
